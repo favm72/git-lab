@@ -18,5 +18,8 @@
     "bugs": {
         "url": "https://github.com/favm72/git-lab/issues"
     },
-    "homepage": "https://github.com/favm72/git-lab#readme"
+    "homepage": "https://github.com/favm72/git-lab#readme",
+    "dependencies": {
+        "uuid": "^8.3.2"
+    }
 }
